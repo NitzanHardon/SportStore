@@ -2,7 +2,7 @@
   "name": "sportstore",
   "version": "1.0.0",
   "description": "SportStore for colman's course \"Advanced Web System Developing\"",
-  "main": "server.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
