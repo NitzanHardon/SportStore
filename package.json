@@ -1,0 +1,25 @@
+{
+  "name": "sportstore",
+  "version": "1.0.0",
+  "description": "SportStore for colman's course \"Advanced Web System Developing\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NitzanHardon/SportStore.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NitzanHardon/SportStore/issues"
+  },
+  "homepage": "https://github.com/NitzanHardon/SportStore#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "mongojs": "^2.6.0"
+  }
+}
